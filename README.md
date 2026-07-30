@@ -16,7 +16,7 @@ prism browser supports windows 11, 10, and any other operating system as long as
 
 
 
-
+NOTE : for some reason for some people if you download it off the web and hit change color menu in settings it blocks the app. If you know how to unblock it send a message. It blocks the shortcut if you pin it to taskbar.
 
 
 
