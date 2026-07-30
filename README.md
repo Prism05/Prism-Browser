@@ -1,3 +1,12 @@
+Update Logs
+
+V0.131
+--Bugs, 
+App Updates will restart the app for a minute until it finally opens it normally. Dont be alarmed if it starts reopening the same tab. It will stop after a bit.
+Color Bug is still here.
+Home is now an HTML so it wont mess up the url search.
+
+
 
 This Browser is not affiliated with DuckDuckGo, Google, or Microsoft. The search engines used are not owned by me but are websites and free to use.
 Accounts do not save yet. "WILL CHANGE LATER'
