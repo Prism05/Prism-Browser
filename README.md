@@ -1,11 +1,8 @@
 Update Logs
 
-V0.131
---Bugs, 
-App Updates will restart the app for a minute until it finally opens it normally. Dont be alarmed if it starts reopening the same tab. It will stop after a bit.
-Color Bug is still here.
-Home is now an HTML so it wont mess up the url search.
-SORRY V0.131 IS BROKEN RIGHT NOW. IT WILL COME OUT SOON IT IS NOT OUT YET
+V0.14
+New content is avaliable at the release description!
+
 
 
 
