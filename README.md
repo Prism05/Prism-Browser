@@ -8,6 +8,9 @@ Home is now an HTML so it wont mess up the url search.
 
 
 
+NOTE: dont mind the .py file it doesnt work i just use it to compile it to an exe
+
+
 This Browser is not affiliated with DuckDuckGo, Google, or Microsoft. The search engines used are not owned by me but are websites and free to use.
 Accounts do not save yet. "WILL CHANGE LATER'
 And feel free to take this code and reuse it somewhere else for your own project!
