@@ -12,9 +12,7 @@ Updates rely on internet and access to GitHub, "no internet means no updates"
 
 
 
-
-BROWSER SUPPORTS WINDOWS 11 AND WINDOWS 10. OTHER OPERATING SYSTEMS USE .PY AS LONG AS THEY HAVE THE MOST RECENT PYTHON VERSION INSTALLED.
-
+prism browser supports windows 11, 10, and any other operating system as long as they have the .py file and the most recent version of python installed.
 
 
 
