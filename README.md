@@ -5,3 +5,31 @@ And feel free to take this code and reuse it somewhere else for your own project
 
 
 Updates rely on internet and access to GitHub, "no internet means no updates"
+
+
+
+
+
+
+
+
+BROWSER SUPPORTS WINDOWS 11 AND WINDOWS 10. OTHER OPERATING SYSTEMS USE .PY AS LONG AS THEY HAVE THE MOST RECENT PYTHON VERSION INSTALLED.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
